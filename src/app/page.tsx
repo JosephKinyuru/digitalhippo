@@ -41,7 +41,7 @@ export default function Home() {
           >
             Browse Trending
           </Link>
-          <Button variant='ghost'>Our quality promis &rarr;</Button>
+          <Button variant='ghost'>Our quality promised &rarr;</Button>
         </div>
       </div>
 
@@ -54,7 +54,7 @@ export default function Home() {
         {PERKS.map((perk) => (
           <div 
           key={perk.name} 
-          className="text-center md:flex md:items-start md:text-left lg:block lg:text-ce"
+          className="text-center md:flex md:items-start md:text-left lg:block lg:text-center"
           >
             <div className="md:flex shrink-0 flex justify-center" >
               <div className="h-15 w-16 flex items-center justify-center rounded-full bg-blue-100 text-blue-900">
