@@ -50,7 +50,7 @@ export const paymentRouter = router({
           })
 
           line_items.push({
-            price: "price_1PRUqOFRxEmlXxdoWWor7xKJ",
+            price: "price_1PRuSvKo99EQZ5hxKUKjNMKK",
             quantity: 1,
             adjustable_quantity: {
                 enabled: false
